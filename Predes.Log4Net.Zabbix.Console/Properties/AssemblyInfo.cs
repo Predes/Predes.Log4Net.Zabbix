@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Predes.Log4Net.Zabbix")]
-[assembly: AssemblyDescription("Class library with log4net appender for Zabbix.")]
+[assembly: AssemblyTitle("Predes.Log4Net.Zabbix.Test")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Predes")]
-[assembly: AssemblyProduct("Predes.Log4Net.Zabbix")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Predes.Log4Net.Zabbix.Test")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c33ad7ac-d47b-47db-b17a-905e0dfa9683")]
+[assembly: Guid("a0fcbd82-df72-428f-871f-f2c392edb373")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.*")]
+[assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
