@@ -6,7 +6,6 @@
 //  Copyright (c) Predes 2017 All rights reserved.
 // ===============================================================================
 
-using System.Diagnostics;
 using log4net.Appender;
 using log4net.Core;
 using Predes.ZabbixSender;

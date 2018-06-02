@@ -9,7 +9,7 @@
     <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>First release</releaseNotes>
+    <releaseNotes>Added support for .NET Framework 4.5.2</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>Zabbix log4net</tags>
     <dependencies />
