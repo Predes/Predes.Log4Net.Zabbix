@@ -9,8 +9,8 @@
     <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Added support for .NET Framework 4.5.2</releaseNotes>
-    <copyright>Copyright 2017</copyright>
+    <releaseNotes>Added support for Zabbix 4.0</releaseNotes>
+    <copyright>Copyright 2020</copyright>
     <tags>Zabbix log4net</tags>
     <dependencies />
   </metadata>
